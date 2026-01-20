@@ -35,4 +35,7 @@ Modern ve kullanıcı dostu bir arayüze sahip, **ASP.NET Core MVC** ile gelişt
 
 # Projenin ONEDRİVE linki
 https://uludagedutr-my.sharepoint.com/:f:/g/personal/132230125_ogr_uludag_edu_tr/IgCciYZ7f-gCR6FOveHKkAbYATvu9h0lWVbtM64tWCNQ4Qs?e=Vwzxk8
+# Projenin youtube video linki
+https://youtu.be/YhfLxz2nWz8?si=Hl9mkPwWwVWCO8IR
+
 
